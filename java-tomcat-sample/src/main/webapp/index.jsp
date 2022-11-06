@@ -1,6 +1,6 @@
 <html>
 <body>
-<h2>Enter Employee Name to find in DB!-06Nov2022</h2>
+<h2>Enter Employee Name to find in DB!-06Nove2022</h2>
 	<form action="getUser">
 		<input type="text" name="emp_no">
 		<input type="submit">
